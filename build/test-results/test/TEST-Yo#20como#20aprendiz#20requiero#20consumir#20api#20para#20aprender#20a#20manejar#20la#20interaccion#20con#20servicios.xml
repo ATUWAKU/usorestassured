@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Yo como aprendiz requiero consumir api para aprender a manejar la interaccion con servicios" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-31T15:30:20" hostname="pb0b0872405" time="6.558">
+  <properties/>
+  <testcase name="ConsumirApi" classname="Yo como aprendiz requiero consumir api para aprender a manejar la interaccion con servicios" time="6.558"/>
+  <system-out><![CDATA[{
+    "paging": {
+        "pageIndex": 1,
+        "pageSize": 100,
+        "total": 1
+    },
+    "components": [
+        {
+            "organization": "default-organization",
+            "id": "AW5g7NKfB80UdmzOvehX",
+            "key": "AW0998001_BIZTRACK_TEST",
+            "name": "AW0998001_BIZTRACK_TEST",
+            "qualifier": "TRK",
+            "visibility": "public",
+            "lastAnalysisDate": "2020-07-28T14:13:58-0500",
+            "revision": "d864fe3be7b1dc09057a9c07bd5423f153e90b5d"
+        }
+    ]
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
